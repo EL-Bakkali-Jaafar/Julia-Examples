@@ -1,6 +1,6 @@
 #a simple julia code to calculate the value of π using Monte Carlo method.
 # written by Jaafar EL Bakkali, 27/01/2021.
-N=1e10
+N=1e8
 
 ######--------- BODY OF THE MC CAL PI FUNCTION-----------
 function MC_Cal_π(N)
