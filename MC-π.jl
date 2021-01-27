@@ -21,7 +21,7 @@ global Accepted_points,Refused_points
 end
 Total_points=Accepted_points+Refused_points
 Cal_π=4*Accepted_points/Total_points
-
+println("Number of points: ",N)
 println("Value of the calculated π is: ",Cal_π, ", Difference to the Julia Pi (%) ",100*(pi-Cal_π)/pi)
 end
 ######--------- BODY OF THE MC CAL PI FUNCTION-----------
