@@ -2,9 +2,9 @@
 A set of Julia examples.
 
 
-
-
-<b>Example 1:</b> a simple julia code to estimate the value of pi by using Monte Carlo method.
+<a href="https://github.com/EL-Bakkali-Jaafar/Julia-Examples/blob/main/MC-%CF%80.jl
+"><b>Example 1:</b> </a>
+a simple julia code to estimate the value of pi by using Monte Carlo method.
 
 <I>output:</I> 
 
