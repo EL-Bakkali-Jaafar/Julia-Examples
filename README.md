@@ -41,5 +41,44 @@ Strandard sinus:
 Max difference (%): 2.2204445221147957e-14
 
 
+<a href="https://github.com/EL-Bakkali-Jaafar/Julia-Examples/blob/main/MC-%CF%80.jl
+"><b>Example 1:</b> </a>
+a simple julia code to estimate the value of pi by using Monte Carlo method (Multithreading version).
+ 
+ 
+ <I>How to Run:</I> 
+
+ ./multithreading_pi.sh 
+ 
+ <I>output:</I> 
+
+====ThreadID#2| π=3.14147| Error(%)=0.00382397
+
+====ThreadID#1| π=3.14153| Error(%)=0.00203762
+
+====ThreadID#6| π=3.14174| Error(%)=-0.0047513
+
+====ThreadID#9| π=3.14145| Error(%)=0.00464521
+
+====ThreadID#8| π=3.1415| Error(%)=0.00306385
+
+====ThreadID#3| π=3.14146| Error(%)=0.00417029
+
+====ThreadID#5| π=3.14149| Error(%)=0.00312242
+
+====ThreadID#7| π=3.14151| Error(%)=0.00253927
+
+====ThreadID#4| π=3.14175| Error(%)=-0.00515873
+
+====ThreadID#10| π=3.14173| Error(%)=-0.00447373
+
+===============================================
+
+    π=3.14156432 | Error(%)=0.0009018861742200533
+    
+  8.877416 seconds (786.31 M allocations: 11.748 GiB, 33.06% gc time)
+  
+
+
 
 
