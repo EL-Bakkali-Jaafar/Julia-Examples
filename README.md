@@ -80,5 +80,16 @@ a simple julia code to estimate the value of pi by using Monte Carlo method (Mul
   
 
 
+<a href="https://github.com/EL-Bakkali-Jaafar/Julia-Examples/blob/main/factorial.jl
+
+"><b>Example 4:</b> </a>
+a simple julia code to estimate calculate factorial of a given number.
+
+<I>output:</I> 
+
+
+44! = 2673996885588443136
+
+
 
 
